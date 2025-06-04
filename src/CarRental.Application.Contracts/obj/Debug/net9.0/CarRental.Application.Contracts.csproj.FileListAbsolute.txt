@@ -1,0 +1,15 @@
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\bin\Debug\net9.0\CarRental.Application.Contracts.deps.json
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\bin\Debug\net9.0\CarRental.Application.Contracts.dll
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\bin\Debug\net9.0\CarRental.Application.Contracts.pdb
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\bin\Debug\net9.0\CarRental.Domain.Shared.dll
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\bin\Debug\net9.0\CarRental.Domain.Shared.pdb
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\CarRental.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\CarRental.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\CarRental.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\CarRental.Application.Contracts.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\CarRental.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\CarRenta.152DFB5E.Up2Date
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\CarRental.Application.Contracts.dll
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\refint\CarRental.Application.Contracts.dll
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\CarRental.Application.Contracts.pdb
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.Application.Contracts\obj\Debug\net9.0\ref\CarRental.Application.Contracts.dll

@@ -1,0 +1,17 @@
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\bin\Debug\net9.0\CarRental.HttpApi.Client.deps.json
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\bin\Debug\net9.0\CarRental.HttpApi.Client.dll
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\bin\Debug\net9.0\CarRental.HttpApi.Client.pdb
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\bin\Debug\net9.0\CarRental.Application.Contracts.dll
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\bin\Debug\net9.0\CarRental.Domain.Shared.dll
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\bin\Debug\net9.0\CarRental.Application.Contracts.pdb
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\bin\Debug\net9.0\CarRental.Domain.Shared.pdb
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\CarRental.HttpApi.Client.csproj.AssemblyReference.cache
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\CarRental.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\CarRental.HttpApi.Client.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\CarRental.HttpApi.Client.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\CarRental.HttpApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\CarRenta.6EC33929.Up2Date
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\CarRental.HttpApi.Client.dll
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\refint\CarRental.HttpApi.Client.dll
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\CarRental.HttpApi.Client.pdb
+C:\Users\Abdul\source\repos\CarRental\src\CarRental.HttpApi.Client\obj\Debug\net9.0\ref\CarRental.HttpApi.Client.dll
